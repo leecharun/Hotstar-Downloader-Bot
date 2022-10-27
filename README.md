@@ -24,7 +24,7 @@ ALL CREDITS GOES TO THE BELOVED DEVELOPERS :)
 
 #### Deploy to Heroku
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://github.com/leecharun/Hotstar-Downloader-Bot)
 
 #### Run in your VPS
 ```sh
